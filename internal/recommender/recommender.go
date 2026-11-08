@@ -117,7 +117,13 @@ func Recommend(q Request) Result {
 				score += model.Weights[i] * f[n]
 			}
 		}
-		m.Score = math.Round((1/(1+math.Exp(-score)))*1000) / 10
+		modelFit := 1 / (1 + math.Exp(-score))
+		nutritionFit := 0.5*f["calorie_fit"] + 0.3*f["protein"] + 0.2*f["low_sodium"]
+		matchFit := 0.4*f["budget_fit"] + 0.4*nutritionFit + 0.2*modelFit
+		if len(q.Preferences) > 0 {
+			matchFit = 0.65*f["preference_match"] + 0.15*f["budget_fit"] + 0.1*nutritionFit + 0.1*modelFit
+		}
+		m.Score = math.Round(clamp(matchFit)*1000) / 10
 		if m.Diet == "vegan" {
 			m.Reasons = append(m.Reasons, "plant-based")
 		}
