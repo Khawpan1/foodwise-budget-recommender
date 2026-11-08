@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"foodwise/internal/recommender"
+	"foodwise/pkg/recommender"
 	"log"
 	"net/http"
 	"os"

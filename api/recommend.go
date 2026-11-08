@@ -2,7 +2,7 @@ package handler
 
 import (
 	"encoding/json"
-	"foodwise/internal/recommender"
+	"foodwise/pkg/recommender"
 	"net/http"
 )
 
