@@ -1,0 +1,8 @@
+node_modules/
+web/dist/
+.env
+__pycache__/
+*.pyc
+.vercel/
+.ipynb_checkpoints/
+*.tsbuildinfo

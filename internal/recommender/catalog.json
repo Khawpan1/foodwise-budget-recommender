@@ -1,0 +1,418 @@
+[
+  {
+    "id": "pad-krapow",
+    "name": "ข้าวกะเพราไก่ไข่ดาว",
+    "category": "Thai",
+    "price_thb": 65,
+    "kcal": 560,
+    "protein_g": 29,
+    "carbs_g": 66,
+    "fat_g": 19,
+    "sodium_mg": 980,
+    "diet": "omnivore",
+    "tags": [
+      "spicy",
+      "rice",
+      "chicken",
+      "savory"
+    ],
+    "allergens": [
+      "soy",
+      "egg"
+    ],
+    "image": "🌶️",
+    "photo_url": "https://images.unsplash.com/photo-1627308595186-e6bb36712645?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Vicky Ng",
+    "photo_page": "https://unsplash.com/photos/fried-rice-with-sunny-side-up-egg-on-gray-ceramic-plate-NT5oqzp-050"
+  },
+  {
+    "id": "som-tam",
+    "name": "ส้มตำไทย + ไก่ย่าง",
+    "category": "Thai",
+    "price_thb": 75,
+    "kcal": 390,
+    "protein_g": 31,
+    "carbs_g": 46,
+    "fat_g": 9,
+    "sodium_mg": 1120,
+    "diet": "omnivore",
+    "tags": [
+      "spicy",
+      "salad",
+      "chicken",
+      "sour"
+    ],
+    "allergens": [
+      "fish",
+      "peanut"
+    ],
+    "image": "🥗",
+    "photo_url": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Jerome Jome",
+    "photo_page": "https://unsplash.com/photos/pasta-with-vegetables-near-meat-with-cabbage-and-stewed-food-in-bowl-Ga3ziG9jCno"
+  },
+  {
+    "id": "khao-man-gai",
+    "name": "ข้าวมันไก่ต้ม",
+    "category": "Thai",
+    "price_thb": 60,
+    "kcal": 590,
+    "protein_g": 27,
+    "carbs_g": 72,
+    "fat_g": 21,
+    "sodium_mg": 890,
+    "diet": "omnivore",
+    "tags": [
+      "rice",
+      "chicken",
+      "mild",
+      "savory"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "image": "🍗",
+    "photo_url": "https://images.unsplash.com/photo-1616278842935-f36557148755?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Paul Rogers",
+    "photo_page": "https://unsplash.com/photos/black-ceramic-bowl-with-rice-and-sliced-lemon-FlYgsQGoxhA"
+  },
+  {
+    "id": "tom-yum",
+    "name": "ต้มยำกุ้ง + ข้าว",
+    "category": "Thai",
+    "price_thb": 95,
+    "kcal": 430,
+    "protein_g": 28,
+    "carbs_g": 55,
+    "fat_g": 11,
+    "sodium_mg": 1450,
+    "diet": "omnivore",
+    "tags": [
+      "spicy",
+      "soup",
+      "seafood",
+      "sour"
+    ],
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "image": "🍲",
+    "photo_url": "https://images.unsplash.com/photo-1631030576925-18b2ca443738?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Khajonkiet Noobut",
+    "photo_page": "https://unsplash.com/photos/white-ceramic-bowl-with-soup-and-stainless-steel-fork-35buMRHohL4"
+  },
+  {
+    "id": "pad-thai",
+    "name": "ผัดไทยกุ้งสด",
+    "category": "Thai",
+    "price_thb": 85,
+    "kcal": 620,
+    "protein_g": 25,
+    "carbs_g": 83,
+    "fat_g": 20,
+    "sodium_mg": 1250,
+    "diet": "omnivore",
+    "tags": [
+      "noodles",
+      "seafood",
+      "sweet",
+      "savory"
+    ],
+    "allergens": [
+      "shellfish",
+      "egg",
+      "peanut",
+      "soy"
+    ],
+    "image": "🍜",
+    "photo_url": "https://images.unsplash.com/photo-1746973645769-c11eb0a81025?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Busy Bee and Green Tea",
+    "photo_page": "https://unsplash.com/photos/delicious-pad-thai-with-fresh-herbs-and-lime-EDoy1yjPLV0"
+  },
+  {
+    "id": "larb-tofu",
+    "name": "ลาบเต้าหู้ + ข้าวเหนียว",
+    "category": "Thai",
+    "price_thb": 70,
+    "kcal": 460,
+    "protein_g": 23,
+    "carbs_g": 61,
+    "fat_g": 13,
+    "sodium_mg": 770,
+    "diet": "vegan",
+    "tags": [
+      "spicy",
+      "tofu",
+      "rice",
+      "sour",
+      "plant"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "image": "🌿",
+    "photo_url": "https://images.unsplash.com/photo-1697685153869-9f6b363e8902?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Rebecca Clarke",
+    "photo_page": "https://unsplash.com/photos/a-bowl-of-rice-and-vegetables-on-a-table-I7VmLWXoMJA"
+  },
+  {
+    "id": "green-curry",
+    "name": "แกงเขียวหวานไก่ + ข้าว",
+    "category": "Thai",
+    "price_thb": 80,
+    "kcal": 650,
+    "protein_g": 30,
+    "carbs_g": 72,
+    "fat_g": 27,
+    "sodium_mg": 1050,
+    "diet": "omnivore",
+    "tags": [
+      "spicy",
+      "curry",
+      "chicken",
+      "rice"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "image": "🍛",
+    "photo_url": "https://images.unsplash.com/photo-1668665772043-bdd32e348998?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Andrew Relf",
+    "photo_page": "https://unsplash.com/photos/a-bowl-of-food-qEzLiabQe8M"
+  },
+  {
+    "id": "egg-rice",
+    "name": "ข้าวไข่เจียว + ผักลวก",
+    "category": "Thai",
+    "price_thb": 45,
+    "kcal": 510,
+    "protein_g": 18,
+    "carbs_g": 59,
+    "fat_g": 23,
+    "sodium_mg": 690,
+    "diet": "vegetarian",
+    "tags": [
+      "egg",
+      "rice",
+      "mild",
+      "comfort"
+    ],
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "image": "🍳",
+    "photo_url": "https://images.unsplash.com/photo-1627308595186-e6bb36712645?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Vicky Ng",
+    "photo_page": "https://unsplash.com/photos/fried-rice-with-sunny-side-up-egg-on-gray-ceramic-plate-NT5oqzp-050"
+  },
+  {
+    "id": "yentafo",
+    "name": "เย็นตาโฟ",
+    "category": "Thai",
+    "price_thb": 55,
+    "kcal": 470,
+    "protein_g": 20,
+    "carbs_g": 67,
+    "fat_g": 14,
+    "sodium_mg": 1380,
+    "diet": "omnivore",
+    "tags": [
+      "noodles",
+      "soup",
+      "seafood",
+      "mild"
+    ],
+    "allergens": [
+      "fish",
+      "soy",
+      "shellfish"
+    ],
+    "image": "🍜",
+    "photo_url": "https://images.unsplash.com/photo-1746973645769-c11eb0a81025?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Busy Bee and Green Tea",
+    "photo_page": "https://unsplash.com/photos/delicious-pad-thai-with-fresh-herbs-and-lime-EDoy1yjPLV0"
+  },
+  {
+    "id": "chicken-salad",
+    "name": "ยำอกไก่",
+    "category": "Thai",
+    "price_thb": 80,
+    "kcal": 320,
+    "protein_g": 38,
+    "carbs_g": 23,
+    "fat_g": 8,
+    "sodium_mg": 880,
+    "diet": "omnivore",
+    "tags": [
+      "salad",
+      "chicken",
+      "spicy",
+      "low-carb"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "image": "🥬",
+    "photo_url": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Jerome Jome",
+    "photo_page": "https://unsplash.com/photos/pasta-with-vegetables-near-meat-with-cabbage-and-stewed-food-in-bowl-Ga3ziG9jCno"
+  },
+  {
+    "id": "tofu-basil",
+    "name": "กะเพราเต้าหู้ + ข้าว",
+    "category": "Thai",
+    "price_thb": 65,
+    "kcal": 490,
+    "protein_g": 21,
+    "carbs_g": 68,
+    "fat_g": 15,
+    "sodium_mg": 850,
+    "diet": "vegan",
+    "tags": [
+      "spicy",
+      "tofu",
+      "rice",
+      "plant",
+      "savory"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "image": "🌱",
+    "photo_url": "https://images.unsplash.com/photo-1697685153869-9f6b363e8902?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Rebecca Clarke",
+    "photo_page": "https://unsplash.com/photos/a-bowl-of-rice-and-vegetables-on-a-table-I7VmLWXoMJA"
+  },
+  {
+    "id": "fruit-yogurt",
+    "name": "โยเกิร์ตผลไม้ + กราโนลา",
+    "category": "Healthy",
+    "price_thb": 69,
+    "kcal": 310,
+    "protein_g": 14,
+    "carbs_g": 48,
+    "fat_g": 8,
+    "sodium_mg": 120,
+    "diet": "vegetarian",
+    "tags": [
+      "mild",
+      "sweet",
+      "fruit",
+      "light"
+    ],
+    "allergens": [
+      "milk",
+      "gluten",
+      "nuts"
+    ],
+    "image": "🍓",
+    "photo_url": "https://images.unsplash.com/photo-1639389756203-d1ae1b3c21ef?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Cosmin Ursea",
+    "photo_page": "https://unsplash.com/photos/a-bowl-of-granola-with-strawberries-and-yogurt-4i756gs8rWE"
+  },
+  {
+    "id": "grilled-fish",
+    "name": "ปลาย่าง + ข้าว + ผัก",
+    "category": "Thai",
+    "price_thb": 110,
+    "kcal": 480,
+    "protein_g": 37,
+    "carbs_g": 52,
+    "fat_g": 14,
+    "sodium_mg": 720,
+    "diet": "pescatarian",
+    "tags": [
+      "fish",
+      "rice",
+      "grilled",
+      "savory"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "image": "🐟",
+    "photo_url": "https://images.unsplash.com/photo-1661939252817-ebb73304f4c7?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Design4business",
+    "photo_page": "https://unsplash.com/photos/a-fish-on-a-leaf-xnxS_he76E4"
+  },
+  {
+    "id": "oatmeal",
+    "name": "ข้าวโอ๊ตกล้วยและนมถั่วเหลือง",
+    "category": "Healthy",
+    "price_thb": 50,
+    "kcal": 340,
+    "protein_g": 15,
+    "carbs_g": 58,
+    "fat_g": 7,
+    "sodium_mg": 95,
+    "diet": "vegan",
+    "tags": [
+      "mild",
+      "sweet",
+      "fruit",
+      "light",
+      "plant"
+    ],
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "image": "🥣",
+    "photo_url": "https://images.unsplash.com/photo-1631531515105-410bb6ea6501?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "victoria.",
+    "photo_page": "https://unsplash.com/photos/a-bowl-of-oatmeal-next-to-a-bunch-of-bananas-9-cjPoPmw0w"
+  },
+  {
+    "id": "beef-noodle",
+    "name": "ก๋วยเตี๋ยวเนื้อน้ำใส",
+    "category": "Thai",
+    "price_thb": 70,
+    "kcal": 520,
+    "protein_g": 32,
+    "carbs_g": 64,
+    "fat_g": 15,
+    "sodium_mg": 1320,
+    "diet": "omnivore",
+    "tags": [
+      "noodles",
+      "soup",
+      "beef",
+      "savory"
+    ],
+    "allergens": [
+      "soy",
+      "fish"
+    ],
+    "image": "🍜",
+    "photo_url": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Jerome Jome",
+    "photo_page": "https://unsplash.com/photos/pasta-with-vegetables-near-meat-with-cabbage-and-stewed-food-in-bowl-Ga3ziG9jCno"
+  },
+  {
+    "id": "veggie-rice",
+    "name": "ข้าวผัดผักรวม",
+    "category": "Thai",
+    "price_thb": 55,
+    "kcal": 440,
+    "protein_g": 12,
+    "carbs_g": 66,
+    "fat_g": 13,
+    "sodium_mg": 740,
+    "diet": "vegan",
+    "tags": [
+      "rice",
+      "plant",
+      "mild",
+      "savory"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "image": "🥦",
+    "photo_url": "https://images.unsplash.com/photo-1697685153869-9f6b363e8902?auto=format&fit=crop&w=900&q=85",
+    "photo_credit": "Rebecca Clarke",
+    "photo_page": "https://unsplash.com/photos/a-bowl-of-rice-and-vegetables-on-a-table-I7VmLWXoMJA"
+  }
+]

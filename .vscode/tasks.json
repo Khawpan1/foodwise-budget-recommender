@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Foodwise: Go API",
+      "type": "shell",
+      "command": "go run .",
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Foodwise: React web",
+      "type": "shell",
+      "command": "npm run dev -- --host 127.0.0.1",
+      "options": { "cwd": "${workspaceFolder}/web" },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Foodwise: Run app",
+      "dependsOn": ["Foodwise: Go API", "Foodwise: React web"],
+      "dependsOrder": "parallel",
+      "problemMatcher": []
+    }
+  ]
+}
